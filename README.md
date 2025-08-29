@@ -12,9 +12,6 @@ Este proyecto implementa un formulario de login básico con un diseño moderno y
 - Efectos hover en botones
 
 ## Vista Previa
-
-![Vista Previa del Login](./imagenes/preview.png)
-
 ![Demo del Login](./imagenes/demo.gif)
 
 ##  Estructura del Proyecto
